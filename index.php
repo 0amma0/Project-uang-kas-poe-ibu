@@ -100,24 +100,13 @@
         <div class="container">
             <div class="summary-card">
                 <h2>Ringkasan Kas</h2>
-                <div class="summary-amount">Total Kas: Rp 5.000.000</div>
+                <div class="summary-amount">Total Kas: Rp 1.800.000</div>
                 <div class="progress-container">
                     <div class="progress-bar">
                         <div class="progress-fill" style="width: 80%"></div>
                     </div>
                     <span class="progress-text">80%</span>
                 </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Report Access -->
-    <section class="report">
-        <div class="container">
-            <h2>Akses Laporan Wali Kelas</h2>
-            <div class="report-form">
-                <input type="email" placeholder="Masukkan email wali kelas">
-                <button class="report-btn">Lihat Laporan</button>
             </div>
         </div>
     </section>
