@@ -4,18 +4,19 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PUIBU - Kelola PoeIbu Siswa dengan Mudah</title>
-    <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="css/index.css">
 </head>
 <body>
     <?php include 'header.php'; ?>
+
     <!-- Hero Section -->
     <section id="home" class="hero">
         <div class="hero-container">
             <div class="hero-content">
                 <h1>Kelola PoeIbu Siswa dengan Mudah</h1>
                 <p>Sistem pencatatan PoeIbu real-time, transparan dan efisien</p>
-                
                 <div class="stats-grid">
                     <div class="stat-card">
                         <h3>Rp 1.800.000</h3>
@@ -30,15 +31,13 @@
                         <p>Sudah Bayar</p>
                     </div>
                 </div>
-                
                 <a href="#input" class="cta-btn">Input Pembayaran</a>
             </div>
             <div class="hero-image">
+                
                 <div class="placeholder-image">
                     <div class="image-content">
-                        <div class="circle"></div>
-                        <div class="circle small"></div>
-                        <div class="line"></div>
+                        <img src="img/school.jpg" alt="image of school">
                     </div>
                 </div>
             </div>
@@ -121,6 +120,7 @@
             </div>
         </div>
     </section>
+
     <?php include 'footer.php'; ?>
 </body>
 </html>
