@@ -2,7 +2,7 @@
 /* ======================
    DATA DASHBOARD
    ====================== */
-
+   
 $stats = [
     ["Rp 1.800.000", "Total PoeIbu"],
     ["32", "Siswa"],
@@ -23,7 +23,7 @@ $features = [
 ];
 ?>
 
-<link rel="stylesheet" href="/asset/css/dashboard.css">
+<link rel="stylesheet" href="/asset/dashboard.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">    
 <!-- HERO -->
 <section class="hero">

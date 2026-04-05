@@ -35,15 +35,12 @@ $monthlyRecap = [
 
 <title>Laporan Kas</title>
 
-<link rel="stylesheet" href="assets/css/base.css">
-<link rel="stylesheet" href="assets/css/dashboard.css">
-<link rel="stylesheet" href="assets/css/report.css">
+<link rel="stylesheet" href="../asset/base.css">
+<link rel="stylesheet" href="../asset/dashboard.css">
+<link rel="stylesheet" href="../asset/laporan.css">
 </head>
 
 <body class="dashboard-body">
-
-<?php include 'includes/header.php'; ?>
-
 <main class="dashboard-main">
 
 <div class="page-header">
@@ -168,7 +165,7 @@ $monthlyRecap = [
 
 </main>
 
-<?php include 'includes/footer.php'; ?>
+<?php include __DIR__ . '/../component/footer.php'; ?>
 
 </body>
 </html>

@@ -19,10 +19,10 @@
                 </div>
                 <ul class="nav-menu">
                     <li><a href="index.php">Home</a></li>
-                    <li><a href="pembayaran.php">Pembayaran</a></li>
-                    <li><a href="laporan.php">Laporan</a></li>
-                    <li><a href="dashboard.php">Dashboard</a></li>
+                    <li><a href="page/pembayaran.php">Pembayaran</a></li>
+                    <li><a href="page/laporan.php">Laporan</a></li>
+                    <li><a href="page/dashboard.php">Dashboard</a></li>
                 </ul>
-                <a href="login.php" class="login-btn">Login</a>
+                <a href="page/login.php" class="login-btn">Login</a>
             </div>
         </nav>

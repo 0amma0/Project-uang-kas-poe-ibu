@@ -1,0 +1,112 @@
+body{
+    margin:0;
+    font-family:'Poppins',sans-serif;
+    background:#f4f6f9;
+}
+
+/* Layout */
+.dashboard{
+    display:flex;
+}
+
+.content{
+    flex:1;
+    padding:30px;
+}
+
+/* Header */
+.page-header h1{
+    margin:0;
+    font-size:26px;
+}
+
+.page-header p{
+    color:#666;
+    margin-bottom:25px;
+}
+
+/* Card */
+.card{
+    background:#fff;
+    padding:25px;
+    margin-bottom:20px;
+    border-radius:10px;
+    box-shadow:0 2px 8px rgba(0,0,0,0.05);
+}
+
+.card h2{
+    margin-bottom:15px;
+}
+
+/* Form */
+form{
+    display:flex;
+    flex-direction:column;
+    gap:12px;
+}
+
+input{
+    padding:10px;
+    border:1px solid #ddd;
+    border-radius:6px;
+    font-size:14px;
+}
+
+.row{
+    display:flex;
+    gap:10px;
+}
+
+.row input{
+    flex:1;
+}
+
+/* Buttons */
+.btn-primary{
+    background:#2563eb;
+    color:white;
+    border:none;
+    padding:10px;
+    border-radius:6px;
+    cursor:pointer;
+}
+
+.btn-primary:hover{
+    background:#1e4ed8;
+}
+
+.btn-danger{
+    background:#ef4444;
+    color:white;
+    border:none;
+    padding:10px;
+    border-radius:6px;
+    cursor:pointer;
+}
+
+.btn-logout{
+    background:#374151;
+    color:white;
+    border:none;
+    padding:10px;
+    border-radius:6px;
+}
+
+/* Toggle */
+.toggle{
+    display:flex;
+    align-items:center;
+    gap:10px;
+}
+
+/* System Info */
+.system-info p{
+    margin:4px 0;
+    color:#555;
+}
+
+.actions{
+    margin-bottom:15px;
+    display:flex;
+    gap:10px;
+}
