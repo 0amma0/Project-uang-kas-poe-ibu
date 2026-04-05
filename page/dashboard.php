@@ -2,7 +2,7 @@
 /* ======================
    DATA DASHBOARD
    ====================== */
-include __DIR__ . '/../component/header.php';
+   
 $stats = [
     ["Rp 1.800.000", "Total PoeIbu"],
     ["32", "Siswa"],
