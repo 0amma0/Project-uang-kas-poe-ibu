@@ -1,9 +1,16 @@
     <!DOCTYPE html>
     <html lang="id">
-    <head>
-        <link rel="stylesheet" href="/asset/css/dashboard.css">
+<head>
+    <meta charset="UTF-8">
+    <title>PUIBU</title>
+
+    <link rel="stylesheet" href="asset/base.css">
+    <link rel="stylesheet" href="asset/layout.css">
+    <link rel="stylesheet" href="asset/dashboard.css">
+
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    </head>
+</head>
+<body>
     <!-- Navbar -->
         <nav class="navbar">
             <div class="nav-container">
