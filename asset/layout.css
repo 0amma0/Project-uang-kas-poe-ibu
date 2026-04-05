@@ -1,0 +1,64 @@
+/* ========================
+   NAVBAR PUIBU
+======================== */
+
+.navbar {
+    width: 100%;
+    background: #ffffff;
+    border-bottom: 1px solid #e5e7eb;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+/* container */
+.nav-container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 14px 20px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* logo */
+.logo h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: #2563eb;
+}
+
+/* menu */
+.nav-menu {
+    list-style: none;
+    display: flex;
+    gap: 25px;
+}
+
+.nav-menu li a {
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    color: #374151;
+    font-weight: 500;
+    transition: 0.2s;
+}
+
+.nav-menu li a:hover {
+    color: #2563eb;
+}
+
+/* login button */
+.login-btn {
+    background: #2563eb;
+    color: white;
+    padding: 8px 18px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    transition: 0.2s;
+}
+
+.login-btn:hover {
+    background: #1e40af;
+}
