@@ -47,7 +47,7 @@ $payments = [
 
 <div class="dashboard-wrapper">
 
-<?php include 'navbar.php'; ?>
+<?php include 'header.php'; ?>
 
 <main class="dashboard-main">
 
