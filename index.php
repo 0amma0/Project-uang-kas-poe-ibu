@@ -16,7 +16,6 @@ if (!in_array($page, $allowed_pages)) {
 }
 
 include 'component/header.php';
-include 'component/navbar.php';
 include "page/$page.php";
 include 'component/footer.php';
 ?>
