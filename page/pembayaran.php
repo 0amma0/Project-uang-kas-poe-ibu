@@ -47,7 +47,7 @@ $payments = [
 
 <div class="dashboard-wrapper">
 
-<?php include 'component/header.php'; ?>
+<?php include __DIR__ . '/../component/header.php'; ?>
 
 <main class="dashboard-main">
 
