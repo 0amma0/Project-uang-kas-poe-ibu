@@ -17,10 +17,6 @@
    LAYOUT
 ====================== */
 
-.dashboard-wrapper{
-    display:flex;
-}
-
 .dashboard-main{
     flex:1;
     padding:30px;

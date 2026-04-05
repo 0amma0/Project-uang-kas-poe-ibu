@@ -41,9 +41,6 @@ $monthlyRecap = [
 </head>
 
 <body class="dashboard-body">
-
-<?php include __DIR__ . '/../component/header.php'; ?>
-
 <main class="dashboard-main">
 
 <div class="page-header">
