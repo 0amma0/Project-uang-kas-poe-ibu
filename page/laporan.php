@@ -168,7 +168,7 @@ $monthlyRecap = [
 
 </main>
 
-<?php include 'includes/footer.php'; ?>
+<?php include __DIR__ . '/../component/footer.php'; ?>
 
 </body>
 </html>
