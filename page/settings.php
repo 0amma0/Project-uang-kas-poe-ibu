@@ -39,8 +39,8 @@ $class = [
 
 <title>Pengaturan - KasKelas</title>
 
-<link rel="stylesheet" href="assets/css/dashboard.css">
-<link rel="stylesheet" href="assets/css/settings.css">
+<link rel="stylesheet" href="../asset/dashboard.css">
+<link rel="stylesheet" href="../asset/form.css">
 
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
 </head>

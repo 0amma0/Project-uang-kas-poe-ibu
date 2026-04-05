@@ -35,7 +35,7 @@ $monthlyRecap = [
 
 <title>Laporan Kas</title>
 
-<link rel="stylesheet" href="assets/base.css">
+<link rel="stylesheet" href="asset/base.css">
 <link rel="stylesheet" href="asset/dashboard.css">
 <link rel="stylesheet" href="asset/laporan.css">
 </head>
